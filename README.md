@@ -2,7 +2,7 @@
 
 **Project:** alarm-py  
 **Version:** 1.1.0  
-**Date:** OCT/12/2023  
+**Date:** JAN/12/2023  
 **Author:** Sergio Mirazo  
 
 ---
